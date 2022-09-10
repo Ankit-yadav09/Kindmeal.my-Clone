@@ -1,0 +1,117 @@
+.intro_Outer{
+    margin-top: 50px;
+    /* border: 1px solid grey;; */
+    width: 100%;
+    /* height: 1000px; */
+}
+.intro_inner{
+    /* border: 1px solid pink;; */
+    width: 71%;
+    /* height: 400px; */
+    margin: auto;
+}
+.intro_inner h1{
+    font-size: 36px;
+    color: #666666;
+    font-weight: 600;
+}
+.intro_inner h2{
+    font-size: 26px;
+    color: #8b898a;
+    font-weight: 600;
+}
+.ad_image{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.ad_image h3{
+    color: #8b898a;
+    font-weight: 600;
+    margin-right: 20px;
+}
+.ad_image img{
+    width: 300px;
+    height: 60px;
+}
+.ad_deals{
+    /* border: 1px solid grey; */
+    width: 250;
+    height: 230px;
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-between;
+}
+.ad_eachDeal{
+    /* border: 1px solid grey; */
+    width: 23%;
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.ad_eachDeal img{
+    border-radius: 15px;
+    height: 100px;
+    padding-top: 10px;
+}
+.ad_eachDeal h3{
+    color: #666666;
+    font-weight: 600;
+}
+.ad_eachDeal p{
+    color: #8b898a;
+    font-weight: 600;
+    margin-top: -10px;
+    font-size: 14px;
+    padding: 0px 5px;
+}
+.join_Intro h3{
+    margin-top: 80px;
+    margin-bottom: 60px;
+    color: #8b898a;
+    font-weight: 600;
+}
+
+.join_Btn{
+    background-color: #f53838;
+    width: 43%;
+    padding: 15px;
+    border-radius: 15px;
+    border: none;
+    margin: auto;
+    cursor: pointer;
+}
+.join_Btn_h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+.join_Btn_h3{
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+.featured{
+    margin-top: 80px;
+}
+/* button:hover{
+    background-color: #a81717;
+} */
+.join_Btn div{
+    background-color: #f53838;
+}
+.join_Btn:hover{
+    background-color: #ee3b3b;
+}
+.midLastImg{
+    background-color: #ececec;
+    margin-top: 40px;
+    /* border: 1px solid purple; */
+    width: 100%;
+}
+.midLastImg>img{
+    background-color: #ececec;
+    width: 71%;
+    height: 250px;
+}

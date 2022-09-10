@@ -1,0 +1,40 @@
+.btnDiv{
+    width: 82%;
+    /* border: 1px solid grey; */
+    display: flex;
+    justify-content: space-between;
+    
+}
+.prevBtn{
+    background-color: rgb(192, 189, 185);
+   
+    border-radius: 5px;
+    width: 60px;
+    height: 30px;
+    padding: 5px;
+    border: none;
+    color: black;
+}
+.eachBtn{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    color: rgb(56, 56, 250);
+    width: 30px;
+    margin-right: 3px;
+    margin-left: 3px;
+    padding: 5px;
+}
+.eachBtn:hover{
+    background-color: rgb(193, 190, 190);
+    cursor: pointer;
+}
+#nextBtn{
+    /* border: 1px solid grey; */
+    width: 130px;
+    justify-content: space-between;
+    display: flex;
+}
+#nextBtn div>*:hover{
+    background-color: rgb(120, 122, 118);
+    cursor: pointer;
+}

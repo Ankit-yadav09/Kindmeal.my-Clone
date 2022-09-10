@@ -1,0 +1,78 @@
+.navContainer{
+    display: flex;
+    /* border: 1px solid grey; */
+    width: 71%;
+    height: 80px;
+    margin: auto;
+    justify-content: space-between;
+    padding: 5px;
+    /* background-color: pink; */
+}
+/* .webLogo{
+    
+} */
+/* .navContainer >div{
+    background-color: greenyellow;
+} */
+
+.navSocial{
+    /* border: 1px solid blue; */
+    gap: 15px;
+    /* width: 10%; */
+    /* height: auto; */
+    /* margin-top: auto; */
+    display: flex;
+    /* background-color: greenyellow; */
+}
+.navSocial img{
+    margin-top: 18px;
+    /* background-color: grey; */
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.navAuth{
+    display: flex;
+    /* border: 1px solid grey; */
+    height: 30px;
+    gap: 10px;
+    margin-top: 27px;
+    margin-right: 10px;
+    justify-content: space-between;
+}
+.navAuth button{
+    border-radius: 5px;
+    border: none;
+    width: 80px;
+    height: 25px;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.navAuth p{
+    margin-top: 5px;
+    font-size: small;
+    color: rgb(102, 101, 101); 
+}
+
+.fbBtn{
+    background-color: #35619f;
+    color: white; 
+}
+.fbBtn:hover{
+    background-color: rgb(73, 73, 247);
+}
+.emailBtn{
+    background-color: #666666;
+    color: white; 
+}
+.emailBtn:hover{
+    background-color: rgb(82, 76, 76);
+}
+.signupBtn:hover{
+    cursor: pointer;
+    
+}
