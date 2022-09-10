@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Kindmeal.my-Clone/static/css/main.6ed69583.css",
-    "main.js": "/Kindmeal.my-Clone/static/js/main.dcb32867.js",
+    "main.js": "/Kindmeal.my-Clone/static/js/main.c049e676.js",
     "static/js/787.88c46945.chunk.js": "/Kindmeal.my-Clone/static/js/787.88c46945.chunk.js",
     "index.html": "/Kindmeal.my-Clone/index.html",
     "main.6ed69583.css.map": "/Kindmeal.my-Clone/static/css/main.6ed69583.css.map",
-    "main.dcb32867.js.map": "/Kindmeal.my-Clone/static/js/main.dcb32867.js.map",
+    "main.c049e676.js.map": "/Kindmeal.my-Clone/static/js/main.c049e676.js.map",
     "787.88c46945.chunk.js.map": "/Kindmeal.my-Clone/static/js/787.88c46945.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed69583.css",
-    "static/js/main.dcb32867.js"
+    "static/js/main.c049e676.js"
   ]
 }
